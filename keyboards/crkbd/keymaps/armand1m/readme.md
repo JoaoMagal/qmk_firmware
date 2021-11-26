@@ -35,8 +35,6 @@ Every keymap is pretty unique and tailored to suit it's main creators needs. Her
 
  - Keys on the home row are used to switch to layers, so "A" goes to layer 2 when held. I started making this in the Moonlander and migrated the practice, but still sometimes I use the MO 2 on the right thumb.
 
- - One Shot Keys are enabled for the shifts on the pinkies. If you press it twice: it will lock on shift until pressed again (pretty much like caps lock). These are handy when you're typing and just don't want to hold shift to have a capitalized word.
-
 ## Usage
 
 In case you have `qmk` installed:
